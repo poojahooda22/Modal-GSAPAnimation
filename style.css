@@ -116,7 +116,7 @@ body {
 
 .container .car-final {
   position: absolute;
-  height: 100px;
+  height: 200px;
   left: 200%;
   top: 10%;
   transform: translate(-50%);
